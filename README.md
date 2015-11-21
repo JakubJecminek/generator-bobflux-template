@@ -1,0 +1,1 @@
+# generator-bobflux-template
