@@ -1,10 +1,6 @@
 # generator-bobflux-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Simple generator with everything you need for developing application using Bobril + Bobflux.
 
-## Notice
-This still work in progress!
-Therefore this generator is not published yet.
-
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-bobflux-template using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
