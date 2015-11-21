@@ -31,6 +31,7 @@ is also used in this template project(how to use it is described in readme.md fi
 There already many resources to learn about Bobril from: 
 
 [Bobril/Bobflux talk from Tomas Rut in czech language](https://www.youtube.com/watch?v=druRg9rF0Ig) 
+
 [Article about Bobril/Bobflux from Tomas Rut in english](http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-started)
 
 ## Getting to know Bobflux
