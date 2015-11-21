@@ -1,6 +1,10 @@
 # generator-bobflux-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Simple generator with everything you need for developing application using Bobril + Bobflux.
 
+## Notice
+This still work in progress!
+Therefore this generator is not published yet.
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-bobflux-template using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
@@ -30,8 +34,8 @@ is also used in this template project(how to use it is described in readme.md fi
 
 There already many resources to learn about Bobril from: 
 
-[Bobril/Bobflux talk from Tomas Rut in czech language] https://www.youtube.com/watch?v=druRg9rF0Ig 
-[Article about Bobril/Bobflux from Tomas Rut in english] http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-started
+[Bobril/Bobflux talk from Tomas Rut in czech language](https://www.youtube.com/watch?v=druRg9rF0Ig) 
+[Article about Bobril/Bobflux from Tomas Rut in english](http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-started)
 
 ## Getting to know Bobflux
 
