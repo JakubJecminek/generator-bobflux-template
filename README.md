@@ -28,11 +28,11 @@ It was created by Boris Letocha, more information can be found here: [Official B
 Boris is also creator of [bobril-build](https://github.com/Bobris/bobril-build) which is build tool for Bobril porjects, this tool 
 is also used in this template project(how to use it is described in readme.md file in generated project or in bobril-build repository mentioned above.  
 
-There already many resources to learn about Bobril from: 
+There already many resources to learn about Bobril from(author of both linked resources is Tomáš Růt): 
 
-[Bobril/Bobflux talk from Tomas Rut in czech language](https://www.youtube.com/watch?v=druRg9rF0Ig) 
+[Bobril/Bobflux talk cz](https://youtu.be/druRg9rF0Ig) 
 
-[Article about Bobril/Bobflux from Tomas Rut in english](http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-started)
+[Article about Bobril/Bobflux en](http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-started)
 
 ## Getting to know Bobflux
 
