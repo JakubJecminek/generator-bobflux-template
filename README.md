@@ -13,7 +13,7 @@ npm install -g generator-bobflux-template
 Then generate your new project:
 
 ```bash
-yo generator-bobflux-template
+yo bobflux-template
 ```
 
 This command will ask you for name of your new project. After you write name and hit enter, the folder in which you have started this command will contain 

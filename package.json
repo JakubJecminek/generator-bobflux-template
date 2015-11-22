@@ -1,6 +1,6 @@
 {
   "name": "generator-bobflux-template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple generator with everything you need for developing application using Bobril + Bobflux.",
   "homepage": "https://github.com/JakubJecminek/generator-bobflux-template",
   "author": {
